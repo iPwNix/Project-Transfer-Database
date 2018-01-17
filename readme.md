@@ -18,7 +18,7 @@ Er lijkt een spacing probleem te zijn op github met de code, geen idee wat dit v
 All code resides whtin app/Http/Controllers, TransferController.php & CommentedTransferController.php
 The two controllers are pretty much the same, i just had to create it twice because i had to explain the assignment to some classmates.
 
-There seems to be a spacing problem with the code here on github, i have no idea whats causing this because in my code editor everything seems clean anr normal, i'll try and fix it by hand here on github.
+There seems to be a spacing problem with the code here on github, i have no idea whats causing this because in my code editor everything seems clean and normal, i'll try and fix it by hand here on github.
 
 # Beschrijving / Description
 
