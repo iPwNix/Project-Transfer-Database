@@ -7,34 +7,33 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+# Laravel PHP Framework
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
+[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
+[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Project Guild Site (Aegis of Envy)
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+# Code
+### NL
+Alle code zit in app/Http/Controllers, TransferController.php & CommentedTransferController.php
+De twee controller zijn eigenlijk hetzelfde, ik heb hem aleen twee keer gemaakt omdat ik de opdracht aan wat klasgenoten moest uitleggen.
 
-## Learning Laravel
+Er lijkt een spacing probleem te zijn op github met de code, geen idee wat dit veroorzaakt in mijn code editor ziet het er normaal en netjes uit, ik zal het proberen hier op github op te lossen door bij hand alles aan te passen.
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+### ENG
+All code resides whtin app/Http/Controllers, TransferController.php & CommentedTransferController.php
+The two controllers are pretty much the same, i just had to create it twice because i had to explain the assignment to some classmates.
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+There seems to be a spacing problem with the code here on github, i have no idea whats causing this because in my code editor everything seems clean anr normal, i'll try and fix it by hand here on github.
 
-## Contributing
+# Beschrijving / Description
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+### NL
+Een School Project waar we een verouderde database en al zijn data moesten overzetten naar een voor ons gedesignde 3 Dimensional Database.
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+### ENG
+A School Project where we needed to transfer all the data from a decrepit database to a for us designed 3 Dimensional Database.
