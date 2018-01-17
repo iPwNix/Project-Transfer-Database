@@ -8,10 +8,10 @@ use DB;
 class TransferController extends Controller
 {
     public function index(){
-    	// Running query with default connection.
+    	//Oude database
 		$oldUserArray = DB::table('users')->get();
+		//Nieuwe database
 		$newDatabase = DB::connection('mysql2');
-		//var_dump($oldUserArray[0]);
 
 		foreach($oldUserArray as $oldUser){
 
